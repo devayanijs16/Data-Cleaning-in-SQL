@@ -1,1 +1,1 @@
-# Data-Cleaning-in-SQL
+# Data-Exploration-using-SQL
